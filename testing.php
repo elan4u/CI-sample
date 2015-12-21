@@ -1,4 +1,4 @@
 <?php
 
-echo "sample edit application modified";
+echo "sample edit application modified today";
 ?>
